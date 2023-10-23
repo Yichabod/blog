@@ -1,0 +1,8 @@
+14/12/21
+- Modifying posts page to a single markdown file (so there are no dates between
+  the titles and I can add descriptions to each post). Notes on how to do this
+  so I can replicate in the future.
+
+25/7/21
+- LinkedIn link at bottom 
+- 

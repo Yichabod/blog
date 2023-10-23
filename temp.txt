@@ -1,0 +1,356 @@
+.
+├── .DS_Store
+├── .git
+│   ├── HEAD
+│   ├── config
+│   ├── description
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               └── HEAD
+│   ├── modules
+│   │   └── themes
+│   │       └── themes
+│   │           └── researcher
+│   │               ├── HEAD
+│   │               ├── config
+│   │               ├── description
+│   │               ├── hooks
+│   │               │   ├── applypatch-msg.sample
+│   │               │   ├── commit-msg.sample
+│   │               │   ├── fsmonitor-watchman.sample
+│   │               │   ├── post-update.sample
+│   │               │   ├── pre-applypatch.sample
+│   │               │   ├── pre-commit.sample
+│   │               │   ├── pre-merge-commit.sample
+│   │               │   ├── pre-push.sample
+│   │               │   ├── pre-rebase.sample
+│   │               │   ├── pre-receive.sample
+│   │               │   ├── prepare-commit-msg.sample
+│   │               │   ├── push-to-checkout.sample
+│   │               │   └── update.sample
+│   │               ├── index
+│   │               ├── info
+│   │               │   └── exclude
+│   │               ├── logs
+│   │               │   ├── HEAD
+│   │               │   └── refs
+│   │               │       ├── heads
+│   │               │       │   └── master
+│   │               │       └── remotes
+│   │               │           └── origin
+│   │               │               └── HEAD
+│   │               ├── objects
+│   │               │   ├── info
+│   │               │   └── pack
+│   │               │       ├── pack-c75bbff62ec2ba82e8091e874e1928fc367e3c8c.idx
+│   │               │       └── pack-c75bbff62ec2ba82e8091e874e1928fc367e3c8c.pack
+│   │               ├── packed-refs
+│   │               └── refs
+│   │                   ├── heads
+│   │                   │   └── master
+│   │                   ├── remotes
+│   │                   │   └── origin
+│   │                   │       └── HEAD
+│   │                   └── tags
+│   ├── objects
+│   │   ├── 05
+│   │   │   └── c121363341cb26847e74cf533338a13b88b6fd
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-699089aaa35ea1d3b70fb1b0050f377c8ef90d47.idx
+│   │       └── pack-699089aaa35ea1d3b70fb1b0050f377c8ef90d47.pack
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       └── HEAD
+│       └── tags
+├── .gitignore
+├── .gitmodules
+├── .hugo_build.lock
+├── archetypes
+│   └── default.md
+├── config.toml
+├── content
+│   ├── .DS_Store
+│   ├── .Rhistory
+│   ├── BadUSB.pdf
+│   ├── _index.md
+│   ├── book_reviews.md
+│   ├── clarifying_dna_screening.pdf
+│   ├── posts
+│   │   ├── 2021_review.md
+│   │   ├── age_of_ambition.md
+│   │   ├── automation.md
+│   │   ├── become_career.md
+│   │   ├── dairik_zen_practice.md
+│   │   ├── decentralized_governance.md
+│   │   ├── decision_theory.md
+│   │   ├── disgrace.md
+│   │   ├── energy_longevity.md
+│   │   ├── impro.md
+│   │   ├── institution.md
+│   │   ├── mloss_essay.md
+│   │   ├── nondual.md
+│   │   ├── ostrom.md
+│   │   ├── questions_about_governance.md
+│   │   ├── questions_about_growth.md
+│   │   ├── researcher_repo_use.md
+│   │   ├── sartorial_display.md
+│   │   ├── skunk_works.md
+│   │   ├── tech_not_inevitable.md
+│   │   ├── telescopic_poem.md
+│   │   ├── therapy.md
+│   │   └── why_OS.md
+│   ├── projects.md
+│   └── writing.md
+├── public
+│   ├── .DS_Store
+│   ├── .git
+│   │   ├── HEAD
+│   │   ├── config
+│   │   ├── description
+│   │   ├── hooks
+│   │   │   ├── applypatch-msg.sample
+│   │   │   ├── commit-msg.sample
+│   │   │   ├── fsmonitor-watchman.sample
+│   │   │   ├── post-update.sample
+│   │   │   ├── pre-applypatch.sample
+│   │   │   ├── pre-commit.sample
+│   │   │   ├── pre-merge-commit.sample
+│   │   │   ├── pre-push.sample
+│   │   │   ├── pre-rebase.sample
+│   │   │   ├── pre-receive.sample
+│   │   │   ├── prepare-commit-msg.sample
+│   │   │   ├── push-to-checkout.sample
+│   │   │   └── update.sample
+│   │   ├── info
+│   │   │   └── exclude
+│   │   ├── objects
+│   │   │   ├── info
+│   │   │   └── pack
+│   │   └── refs
+│   │       ├── heads
+│   │       └── tags
+│   ├── 404.html
+│   ├── BadUSB.pdf
+│   ├── CNAME
+│   ├── Chinese_meridians.JPG
+│   ├── Clarifying the Problem of DNA Screening [external].pdf
+│   ├── DL_capability_map.png
+│   ├── DL_capability_submap.png
+│   ├── MLOSS_funding.png
+│   ├── ML_repo_use.png
+│   ├── about
+│   │   └── index.html
+│   ├── book_reviews
+│   │   └── index.html
+│   ├── clarifying_dna_screening.pdf
+│   ├── contact
+│   │   └── index.html
+│   ├── data_tool_types.png
+│   ├── index.html
+│   ├── index.xml
+│   ├── inevitable.png
+│   ├── japanese_village.jpg
+│   ├── kaggle_repo_use.png
+│   ├── nondual.png
+│   ├── posts
+│   │   ├── .DS_Store
+│   │   ├── 2021_review
+│   │   │   └── index.html
+│   │   ├── age_of_ambition
+│   │   │   └── index.html
+│   │   ├── automation
+│   │   │   └── index.html
+│   │   ├── become_career
+│   │   │   └── index.html
+│   │   ├── dairik_zen_practice
+│   │   │   └── index.html
+│   │   ├── decentralized_governance
+│   │   │   └── index.html
+│   │   ├── decision_theory
+│   │   │   └── index.html
+│   │   ├── disgrace
+│   │   │   └── index.html
+│   │   ├── energy_longevity
+│   │   │   └── index.html
+│   │   ├── impro
+│   │   │   └── index.html
+│   │   ├── index.html
+│   │   ├── index.xml
+│   │   ├── institution
+│   │   │   └── index.html
+│   │   ├── mloss_essay
+│   │   │   └── index.html
+│   │   ├── nondual
+│   │   │   └── index.html
+│   │   ├── ostrom
+│   │   │   └── index.html
+│   │   ├── questions_about_governance
+│   │   │   └── index.html
+│   │   ├── questions_about_growth
+│   │   │   └── index.html
+│   │   ├── researcher_repo_use
+│   │   │   └── index.html
+│   │   ├── sartorial_display
+│   │   │   └── index.html
+│   │   ├── skunk_works
+│   │   │   └── index.html
+│   │   ├── tech_not_inevitable
+│   │   │   └── index.html
+│   │   ├── telescopic_poem
+│   │   │   └── index.html
+│   │   ├── test_post
+│   │   │   └── index.html
+│   │   ├── therapy
+│   │   │   └── index.html
+│   │   └── why_os
+│   │       └── index.html
+│   ├── projects
+│   │   └── index.html
+│   ├── sass
+│   │   └── researcher.min.css
+│   ├── sitemap.xml
+│   ├── therapy_diagram.png
+│   └── writing
+│       └── index.html
+├── resources
+│   └── _gen
+│       └── assets
+│           └── scss
+│               └── sass
+│                   ├── researcher.scss_6b0d60f79bbb315e2028d8f2ce825ea0.content
+│                   ├── researcher.scss_6b0d60f79bbb315e2028d8f2ce825ea0.json
+│                   ├── researcher.scss_81ad576498767608ce504b3564784665.content
+│                   └── researcher.scss_81ad576498767608ce504b3564784665.json
+├── static
+│   ├── .DS_Store
+│   ├── Chinese_meridians.JPG
+│   ├── DL_capability_map.png
+│   ├── DL_capability_submap.png
+│   ├── MLOSS_funding.png
+│   ├── ML_repo_use.png
+│   ├── data_tool_types.png
+│   ├── inevitable.png
+│   ├── japanese_village.jpg
+│   ├── kaggle_repo_use.png
+│   ├── nondual.png
+│   └── therapy_diagram.png
+├── temp.txt
+├── themes
+│   ├── .DS_Store
+│   ├── researcher
+│   │   ├── .DS_Store
+│   │   ├── .git
+│   │   ├── LICENSE
+│   │   ├── README.md
+│   │   ├── archetypes
+│   │   │   └── default.md
+│   │   ├── assets
+│   │   │   └── sass
+│   │   │       └── researcher.scss
+│   │   ├── exampleSite
+│   │   │   ├── config.toml
+│   │   │   ├── content
+│   │   │   │   ├── _index.md
+│   │   │   │   └── contact.md
+│   │   │   ├── resources
+│   │   │   │   └── _gen
+│   │   │   │       └── assets
+│   │   │   │           └── scss
+│   │   │   │               └── sass
+│   │   │   │                   ├── researcher.scss_b95b077eb505d5c0aff8055eaced30ad.content
+│   │   │   │                   └── researcher.scss_b95b077eb505d5c0aff8055eaced30ad.json
+│   │   │   └── static
+│   │   │       ├── avatar.jpg
+│   │   │       ├── favicon.ico
+│   │   │       └── resume.pdf
+│   │   ├── layouts
+│   │   │   ├── .DS_Store
+│   │   │   ├── 404.html
+│   │   │   ├── _default
+│   │   │   │   ├── baseof.html
+│   │   │   │   ├── list.html
+│   │   │   │   └── single.html
+│   │   │   ├── index.html
+│   │   │   ├── partials
+│   │   │   │   ├── consent.html
+│   │   │   │   ├── footer.html
+│   │   │   │   ├── googleanalytics.html
+│   │   │   │   ├── head.html
+│   │   │   │   ├── header.html
+│   │   │   │   └── math.html
+│   │   │   └── shortcodes
+│   │   │       └── math.html
+│   │   └── theme.toml
+│   └── themes
+│       └── researcher
+│           ├── .git
+│           ├── LICENSE
+│           ├── README.md
+│           ├── archetypes
+│           │   └── default.md
+│           ├── assets
+│           │   └── sass
+│           │       └── researcher.scss
+│           ├── exampleSite
+│           │   ├── config.toml
+│           │   ├── content
+│           │   │   ├── _index.md
+│           │   │   └── contact.md
+│           │   ├── resources
+│           │   │   └── _gen
+│           │   │       └── assets
+│           │   │           └── scss
+│           │   │               └── sass
+│           │   │                   ├── researcher.scss_b95b077eb505d5c0aff8055eaced30ad.content
+│           │   │                   └── researcher.scss_b95b077eb505d5c0aff8055eaced30ad.json
+│           │   └── static
+│           │       ├── avatar.jpg
+│           │       ├── favicon.ico
+│           │       └── resume.pdf
+│           ├── layouts
+│           │   ├── 404.html
+│           │   ├── _default
+│           │   │   ├── baseof.html
+│           │   │   ├── list.html
+│           │   │   └── single.html
+│           │   ├── index.html
+│           │   ├── partials
+│           │   │   ├── consent.html
+│           │   │   ├── footer.html
+│           │   │   ├── googleanalytics.html
+│           │   │   ├── head.html
+│           │   │   ├── header.html
+│           │   │   └── math.html
+│           │   └── shortcodes
+│           │       └── math.html
+│           └── theme.toml
+└── todo.txt
+
+121 directories, 233 files

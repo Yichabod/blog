@@ -1,0 +1,10 @@
+# Do what you want to become
+
+I was listening to a childhood friend talk about his business’ financials when I had a realization; the thing that is so insidious about many who orient their lives around a standardized career (I have in mind my father’s career as an investment banker) is not so much that it wastes the golden years of their lives, or that they per se lose the activities and hobbies that were so dear to them.
+
+No. It is that they lose affordances; their way of being constricts. When my father would walk me around Hong Kong, he taught me to see through his eyes. And what he saw was the price per square foot of the dim sum store, the arbitrage that these fake XBox retailers were exploiting, the cheap price of commercial real estate in Kowloon[^1]. Now, I’m glad I learned that way of seeing from him — it’s practical, somewhat interesting, and a new affordance for me as a seven-year-old. But I have the sense that, in doing this, he gave up other ways of seeing. The insight of a poet, who hears the simian bark of a parent reprimanding their child for unfinished homework, the eye of a biologist, who recognizes the spotted dove on the hiking trail,… etc etc.
+
+Our jobs train and entrain us. We learn how to be by adapting to the central object of our attention. A mechanics physicist will think in terms of particles, acceleration, mass. A lawyer will think in terms of statutes, rulings, court cases. An algorithmic trader will think in terms of alpha, beta, statistical distributions, strategies. The question I’m asking myself is ‘how do you want to be? What kind of a life encourages that way of being?’
+
+---
+[^1]: To be clear, I want to exonerate both my childhood friend and father from caricature. My friend is not a careerist, and my father sees in more lenses than business strategy.
