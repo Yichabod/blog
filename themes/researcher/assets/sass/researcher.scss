@@ -160,3 +160,9 @@ $y-medium: 1.0rem;
         @extend %link-dark;
     }
 }
+.footnote-ref {
+    font-size: 80%;
+}
+sup {
+    font-size: 80%;
+}
