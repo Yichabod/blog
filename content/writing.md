@@ -2,6 +2,11 @@
 
 See also my [Book Reviews](/book_reviews).
 
+#### [We are individually and collectively amassing technical debt](/posts/tech_debt)
+*September 23rd, 2023*
+"We see now that the abyss of history is deep enough to hold us all. We are aware that a civilization has the same fragility as a life."
+
+
 <!-- #### [(Not) Spoofing Hotmail](/posts/not_spoofing_hotmail)
 *July 21st, 2023*
 In which a friend and I try and fail to spoof an expired email protocol. -->
