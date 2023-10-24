@@ -107,6 +107,8 @@ Thanks to [Jake Orthwein](https://twitter.com/JakeOrthwein) for giving feedback 
 I am not totally satisfied with my analysis here. There are two more subtle phenomena I mean by ‘technical debt’ I want to articulate: one is about ‘additional work required’ (that gets captured in the house wind metaphor) and another is about ‘valley hopping’ where "things look like they get worse before they get better” (as with the knot metaphor). I haven’t figured out how to relate these to social technical debt. I’d also like to figure out how Taleb’s notion of antifragility relates to all of this.
 
 
+You can get regular updates from my substack [here](https://maxlangenkamp.substack.com/).
+
 
 [^1]:
      This framing was inspired by Mark Lippman’s introduction in his meditation book: https://meditationbook.page/#technical-debt-meditation-and-minds
