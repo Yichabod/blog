@@ -2,9 +2,9 @@
 
 See also my [Book Reviews](/book_reviews).
 
-#### [(Not) Spoofing Hotmail](/posts/not_spoofing_hotmail)
+<!-- #### [(Not) Spoofing Hotmail](/posts/not_spoofing_hotmail)
 *July 21st, 2023*
-In which a friend and I try and fail to spoof an expired email protocol.
+In which a friend and I try and fail to spoof an expired email protocol. -->
 
 #### [Sartorial Display](/posts/sartorial_display)
 *July 1st, 2023*
