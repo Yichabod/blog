@@ -238,6 +238,8 @@ A theory for why therapeutic modalities stop working over time. As some psychiat
 
 Errors or improvements? Email me at maxslangenkamp[at symbol]gmail[dot]com
 
+Enjoy this essay? You can subscribe to follow my writing [here](https://maxlangenkamp.substack.com/)
+
 ## Notes
 
 [^1]: If you know of a better label for this, please tell me.
