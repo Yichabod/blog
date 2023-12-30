@@ -8,7 +8,7 @@ In this example, my friend (who I'll use to represent the various people[^2] who
 
 I’m going to argue that claims about technological inevitability are wrong and monopolistic.
 
-## Technological feasibility and economic incentives do not imply inevitability
+### Technological feasibility and economic incentives do not imply inevitability
 
 When I say 'BCI is inevitable' is wrong, I mean that this is a misleadingly strong prediction about the future. I don't mean 'BCI will not happen'. Nor, am I suggesting that the future is inherently nondeterministic. 
 
@@ -38,7 +38,7 @@ Another thing to note is that economic incentives change over time. In a market 
 
 Alongside flying cars and subsonic intercontinental travel, human genetic modification remains a specter in the distance. It may eventually happen, but any claims about its inevitability are not well substantiated.
 
-## "Technology is inevitable" can be dangerously self-fulfilling
+### "Technology is inevitable" can be dangerously self-fulfilling
 
 We deform the world according to our expectations. When this happens, we call it a ‘self-fulfilling prophecy’. The world is more deeply filled with self-fulfilling prophecies than we recognize, so we should be very careful about our ‘prophecies’, lest they crowd out visions of the future we want. 
 
