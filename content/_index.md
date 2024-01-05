@@ -12,9 +12,6 @@ Intellectual influences of mine include [Elinor Ostrom](https://en.wikipedia.org
 
 For updates on my writing and projects, join my [essay mailing list](https://maxlangenkamp.substack.com). You can also find me on [Twitter](https://twitter.com/mslkmp). 
 
-Latest:
-
-- [(Not) Spoofing Hotmail](/posts/email_spoof)
 
 My best essays:
 
