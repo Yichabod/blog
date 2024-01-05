@@ -12,6 +12,8 @@ Intellectual influences of mine include [Elinor Ostrom](https://en.wikipedia.org
 
 For updates on my writing and projects, join my [essay mailing list](https://maxlangenkamp.substack.com). You can also find me on [Twitter](https://twitter.com/mslkmp). 
 
+Latest:
+- [We are individually and collectively amassing technical debt](https://maxlangenkamp.me/posts/tech_debt)
 
 My best essays:
 
