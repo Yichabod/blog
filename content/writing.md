@@ -2,6 +2,15 @@
 
 See also my [Book Reviews](/book_reviews).
 
+
+#### [Notes on Taiwan](/posts/taiwan)
+*January 24th, 2024*
+Cinema, culture, cuisine. My love for Taiwan is large.
+
+#### [A Love Letter to LXM](/posts/love_lxm)
+*December 20th, 2023*
+Why you should run demo nights too.
+
 #### [We are individually and collectively amassing technical debt](/posts/tech_debt)
 *September 23rd, 2023*
 "We see now that the abyss of history is deep enough to hold us all. We are aware that a civilization has the same fragility as a life."
