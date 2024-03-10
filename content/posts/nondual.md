@@ -6,7 +6,7 @@ This is just an explanation of a paper that I found very provocative: 1) it prov
 
 Nondual awareness is emphasized mostly in Himalayan Buddhism. Consciousness research, as far as I can tell, has typically taken an approach more informed by sutric Buddhism, with its emphasis on emptiness. This paper is interesting partly because it brings the lens of consciousness science to nondual awareness.
 
-A note on language: The paper (and my post) attempts to talk about some things that language is not very good at capturing. It is at various parts be vague and confusing. That’s going to be a mixture of my lack of understanding and the fact that the thing I’m pointing to is wholistic, irreducible, outside of the subject-object dichotomy (nondual), while language mostly functions with a subject-object structure (dualistic), reducible[^1]. 
+A note on language: The paper (and my post) attempts to talk about some things that language is not very good at capturing. It is at various parts be vague and confusing. That’s going to be a mixture of my lack of understanding and the fact that the thing I’m pointing to is wholistic, irreducible, outside of the subject-object dichotomy (nondual), while language mostly functions with a reducible subject-object (dualistic) structure[^1]. 
 
 A big caveat is that many of the points I’m going to make are probably subtly wrong. I’ve done my best to be clear but I hope this is essay treated as a loose provocation rather than a precise description of experience.
 
@@ -70,9 +70,7 @@ In Hubert Dreyfus' commentary on Heidegger, he points out:
 
 I also think that there’s a deep relationship between [Heidegger’s account of death](https://plato.stanford.edu/entries/heidegger/#Dea) and the response to emptiness that meditative practitioners will discuss[^8].
 
-(If you don’t know what Dasein (also sometimes translated as ‘Being’) is, you can read about it [here](https://plato.stanford.edu/entries/heidegger/#Dea) but you’ll probably not find this section very interesting). 
-
-Dasein and nondual awareness are conceptually distinct, or at least they come with fairly different associations. Dasein is firmly rooted in the realm of Heideggerian thought, with its association with other concepts like fallenness and authenticity. Nondual awareness is less context-laden, but hard to explicate for a different reason. I think they are talking about the same thing. 
+As Heidegger points out in the last section of Being and Time, Care (_Sorge_) is the meaning of our being. Nondual awareness is the background out of which our being comes. I think they are talking about very similar aspects of being.
 
 There’s some contextual evidence for this. In *Heidegger’s Hidden Sources*, Reinhard May argues that Heidegger was heavily influenced by the eastern philosophy of both Daoism and Zen Buddhism. It’s only in the context of Zorapovic’s paper that I’ve seen the explicit link.
 
