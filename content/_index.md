@@ -13,8 +13,8 @@ Intellectual influences of mine include [Elinor Ostrom](https://en.wikipedia.org
 For updates on my writing and projects, join my [essay mailing list](https://maxlangenkamp.substack.com). You can also find me on [Twitter](https://twitter.com/mslkmp). 
 
 Latest:
-- [Notes on Taiwan](/posts/taiwan)
-- [We are individually and collectively amassing technical debt](https://maxlangenkamp.me/posts/tech_debt)
+- [On predictions](https://maxlangenkamp.substack.com/p/on-predictions)
+- [On meaning #3: We who glimpse icebergs](https://maxlangenkamp.substack.com/p/on-meaning-3-we-who-glimpse-icebergs)
 
 My best essays:
 
@@ -23,6 +23,7 @@ My best essays:
 
 Things I love (and which you should try if you haven’t):
 
+- Dancing blindfolded with friends
 - The soundtrack of [Orfeu Negro](https://en.wikipedia.org/wiki/Black_Orpheus)  
 - William Butler Yeats (plays, poetry, philosophy)
 - Toccata and Fugue in D minor ([One good version](https://www.youtube.com/watch?v=FHNLdHe8uxY))
@@ -30,4 +31,3 @@ Things I love (and which you should try if you haven’t):
 - 蔥油餅加蛋
 - Oscar Peterson’s cover of Triste (especially the [first ten seconds](https://www.youtube.com/watch?v=ODfqfrKgJ74))
 - Riding down a gently sloping hill, hands off the handlebars  
-- Templehof airfield

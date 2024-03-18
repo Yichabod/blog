@@ -3,6 +3,26 @@
 See also my [Book Reviews](/book_reviews).
 
 
+#### [On predictions](https://maxlangenkamp.substack.com/p/on-predictions)
+*March 5th, 2024*
+People as prediction engines, how I got better.
+
+
+#### [On meaning #3: We who glimpse icebergs](https://maxlangenkamp.substack.com/p/on-meaning-3-we-who-glimpse-icebergs)
+*March 3rd, 2024*
+Invisible entities and how they can help us see more whole.
+
+
+#### [On meaning #2: In the world like lovers in love](https://maxlangenkamp.substack.com/p/on-meaning-2-in-the-world-like-lovers)
+*February 26th, 2024*
+About the two senses of the word 'in'.
+
+
+#### [On meaning #1: We thinking animals](https://maxlangenkamp.substack.com/p/on-meaning-1-we-thinking-animals)
+*February 18th, 2024*
+The first in a series exploring meaning as inspired by Heidegger's 'Being and Time'
+
+
 #### [Notes on Taiwan](/posts/taiwan)
 *January 24th, 2024*
 Cinema, culture, cuisine. My love for Taiwan is large.
