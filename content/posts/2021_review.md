@@ -1,6 +1,6 @@
 # Gorgeous Chemical Fires
 
-Note: you are one of a small number of people getting this update (because I care about you or else you are sasha chapin). Perhaps it should go without out saying but I request that you please don’t share this without asking beforehand. (Subnote: the original version of this was hosted on substack and I've repasted it here so all the links are missing)
+Note: you are one of a small number of people getting this update. Perhaps it should go without out saying but I request that you please don’t share this without asking beforehand. (Subnote: the original version of this was hosted on substack and I've repasted it here so all the links are missing)
 
 As I start this letter, I am 10,000 meters above the ground, squeezed between two strangers with a polypropylene mask over my face. The man to my right is pale and wears a furry brown Patagonia. He sleeps with a New Yorker open in his lap. The man to my left has a blue hoodie with the word 'Richezz' emblazoned with a lightning yellow font.
 

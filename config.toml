@@ -50,7 +50,7 @@ googleAnalytics = ""  # add your tracking id
     weight = 1
   
   [[menu.main]]
-    name = "projects"
+    name = "about"
     url = "/projects"
     weight = 2
 
